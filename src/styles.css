@@ -1,0 +1,58 @@
+body{
+  padding:0;
+  margin:0;
+  font-family: sans-serif;
+  background-color: lightblue;
+}
+.App{
+  margin: 14px auto;
+  width: 55%;
+}
+#primary-display{
+  border: 1px solid white;
+  padding:10px;
+  background-color:white;
+  border-radius: 20px;
+}
+#form{
+  padding: 5px;
+  background-color: yellowgreen;
+  border-radius: 20px;
+}
+
+label{
+  margin:2px;
+}
+input[type=text]{
+  padding: 5px;
+  margin:3px;
+  border-radius: 5px;
+  border:2px solid silver;
+  width: 30%;
+}
+input[type=tel]{
+  padding: 6px;
+  margin: 3px;
+  border-radius: 5px;
+  border:2px solid silver;
+  width: 30%;
+}
+#email{
+  margin-left: 40px;
+}
+#pswd{
+  margin-left: 12px;
+}
+button{
+  padding: 10px;
+  font-size: 20px;
+  width: 150px;
+  border-radius: 25px;
+  margin: 5px;
+}
+#secondary-display{
+  padding: 10px;
+}
+#sub-pswd{
+  margin-left: 5px;
+}
